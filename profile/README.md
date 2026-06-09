@@ -14,7 +14,7 @@ _The open-source RWA issuance studio for Stellar._
 [![CI](https://img.shields.io/badge/CI-GitHub%20Actions-blue.svg)](../.github/workflows/ci.yml)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](docs/CONTRIBUTING.md)
 [![Stellar](https://img.shields.io/badge/Stellar-testnet%20%2B%20mainnet-7D00FF.svg)](https://stellar.org)
-[![CI](https://github.com/intastellar/stellarmint/actions/workflows/ci.yml/badge.svg)](https://github.com/intastellar/stellarmint/actions/workflows/ci.yml)
+[![CI](https://github.com/intastellar-stellarmint/stellarmint/actions/workflows/ci.yml/badge.svg)](https://github.com/intastellar-stellarmint/stellarmint/actions/workflows/ci.yml)
 
 ## What Is StellarMint?
 
